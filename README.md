@@ -2,7 +2,7 @@
 
 Microservicio que gestiona la autenticación de los usuarios de "SocioUnido".
 
-📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/microservicio-autenticacion/)**
+📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/microservicio-autenticacion-doc/)**
 
 ## Licencia ⚖️
 
