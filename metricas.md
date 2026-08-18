@@ -1,26 +1,27 @@
 ---
 layout: default
 title: Métricas de la implementación
-nav_order: 5
+nav_order: 99
 ---
 
-# 📊 Métricas de la implementación
+# 📊 Métricas de la implementación (Automáticas)
 
-Este espacio está destinado a medir el trabajo, la participación y el progreso del equipo en el desarrollo del microservicio de autenticación. Los siguientes datos combinan métricas en tiempo real conectadas a la API de GitHub con un análisis estático de la distribución del repositorio.
+Este espacio está destinado a medir el trabajo, la participación y el progreso del equipo en el desarrollo de esta implementación. Estos datos se actualizan automáticamente mediante el avance del desarrollo.
 
 ## Resumen del repositorio
 
-* **Actividad de commits:** ![Commits](https://img.shields.io/github/commit-activity/y/trabajoprofesional-aggz/microservicio-autenticacion)
-* **Pull Requests cerrados:** ![PRs](https://img.shields.io/github/issues-pr-closed/trabajoprofesional-aggz/microservicio-autenticacion)
-* **Issues resueltos:** ![Issues](https://img.shields.io/github/issues-closed/trabajoprofesional-aggz/microservicio-autenticacion)
-* **Última versión:** ![Release](https://img.shields.io/github/v/release/trabajoprofesional-aggz/microservicio-autenticacion)
+* **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-38-blue)
+* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-10-purple)
+* **Issues resueltos:** ![Issues](https://img.shields.io/badge/Issues_Resueltos-17-green)
 
 ## Composición del código (Lenguajes)
 
-Basado en el análisis automático del repositorio, la distribución tecnológica de este microservicio es la siguiente:
+Basado en el análisis automático del repositorio, la distribución tecnológica es la siguiente:
 
 * 🔵 **Python:** 99.6%
-* ⚪ **Other:** 0.4%
+* 🐳 **Dockerfile:** 0.2%
+* 🟠 **HTML:** 0.1%
+* 🔴 **Ruby:** 0.1%
 
 ## Distribución del trabajo (Contributors)
 
@@ -28,8 +29,9 @@ A continuación se detalla la participación de cada miembro del equipo basándo
 
 | Miembro del equipo (GitHub User) | Commits Totales | Líneas Agregadas (++) | Líneas Eliminadas (--) |
 | :--- | :---: | :---: | :---: |
-| **Guerrero, Martín (`marttinguerrero`)** | 9 | 2.535 | 140 |
-| **Ascencio, Felipe Santino (`FelipeAscencio`)** | 8 | 693 | 86 |
-| **Ghosn, Lautaro Gabriel (`LGhosn`)** | 1 | 10 | 11 |
+| **Ascencio, Felipe Santino** (`FelipeAscencio`) | 16 | 1.977 | 153 |
+| **Guerrero, Martín** (`marttinguerrero`) | 10 | 4.202 | 140 |
+| **Zielonka, Axel** (`axel-zielonka`) | 3 | 3 | 3 |
+| **Ghosn, Lautaro Gabriel** (`LGhosn`) | 2 | 10 | 11 |
 
-*(Nota: Cualquier diferencia entre el total de commits del repositorio y la suma de los aportes individuales corresponde a operaciones de mantenimiento automatizado realizadas por herramientas como `dependabot`).*
+*(Nota: Cualquier diferencia entre el total de commits del repositorio y la suma de los aportes individuales corresponde a operaciones de mantenimiento automatizado realizadas por herramientas como dependabot).*
